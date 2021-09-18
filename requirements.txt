@@ -1,0 +1,5 @@
+black
+PySide6
+pytest
+pytest-watch
+tqdm
